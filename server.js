@@ -121,9 +121,9 @@ app.get('/8', (req, res) => {
 app.get('/9', (req, res) => {
   res.render('template2', {
     title: 'Anime',
-    message: 'It Is Fine Now. Why? Because I Am Here!',
-    content: 'Money Over Love !',
-    url: 'https://cdn.pixabay.com/photo/2014/10/23/10/10/dollars-499481_1280.jpg'
+    message: 'My Hero Academia !',
+    content: 'It Is Fine Now. Why? Because I Am Here! !',
+    url: 'https://www.meme-arsenal.com/memes/7dc1ec1de8fb701a66bb71e35f80f967.jpg'
   });
 });
 
